@@ -1,0 +1,17 @@
+/* Write your CSS here */
+.bg {
+  display: flex;
+}
+.events-bg {
+  background-color: gray;
+  width: 60%;
+  padding: 20px;
+  color: white;
+}
+.events-cont {
+  list-style: none;
+  display: flex;
+  justify-content: space-around;
+  flex-wrap: wrap;
+  align-items: center;
+}
